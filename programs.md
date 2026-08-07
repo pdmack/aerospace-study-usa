@@ -1,0 +1,197 @@
+# Graduate Programs — Aerospace Engineering
+
+Programs are organized by research strength in the areas most relevant to a physics background. "Best for" reflects what each program does distinctively well, not a general ranking.
+
+> **Note:** Verify faculty positions and active advising before applying. AE is a smaller field than physics and faculty moves matter.
+
+---
+
+## Programs most aligned with a physics background
+
+### MIT — Department of Aeronautics and Astronautics (AeroAstro)
+
+**Best for:** Electric propulsion, space systems, GNC, autonomy, astrodynamics
+
+The broadest and deepest AE department in the country. Strong across nearly every sub-field. The Space Propulsion Lab works on electric propulsion — Hall thrusters, ion engines, plasma diagnostics. The Space Systems Lab builds and flies actual satellites. The AeroAstro program is large enough to find your direction in and small enough to know your colleagues.
+
+Key faculty:
+- **Paulo Lozano** — Electric propulsion, ion electrospray thrusters, miniaturized propulsion for CubeSats
+- **Richard Binzel** — Planetary science / near-Earth objects (more science than engineering but exists here)
+- **Kerri Cahoy** — Smallsats, laser communications, space systems
+
+Notes: Most competitive AE program in the US alongside Caltech. Stipends are around $40–44k but Boston is expensive. Being at MIT means proximity to the broader Boston research ecosystem — Harvard, Draper Lab, Lincoln Lab.
+
+---
+
+### Princeton — Department of Mechanical and Aerospace Engineering (MAE)
+
+**Best for:** Electric propulsion (world-class), plasma physics applications, astrodynamics
+
+The Electric Propulsion and Plasma Dynamics Lab (EPPDyL) — founded by Edgar Choueiri — is one of the most distinguished plasma propulsion groups in the world. Choueiri retired recently but the group continues. Princeton also has strong astrodynamics work.
+
+Key faculty:
+- **Christopher Smoot** — Plasma propulsion, Hall thrusters
+- **Naomi Ehrich Leonard** — Control theory, collective behavior, formation dynamics (autonomy)
+- **Jeremy Kasdin** (may have retired/moved — verify) — Astrodynamics, space telescopes
+
+Notes: Princeton MAE is smaller than MIT AeroAstro. The campus is in suburban New Jersey — comfortable but not a major city. Strong physics culture bleeds across from the physics department, which is a genuine advantage for someone coming from that background.
+
+---
+
+### University of Michigan — Department of Aerospace Engineering
+
+**Best for:** Electric propulsion, space weather, plasma physics applications, broad AE
+
+Michigan's Plasmadynamics and Electric Propulsion Laboratory (PEPL) is consistently one of the top electric propulsion research groups in the country. The space weather group at Michigan is also strong — directly relevant to space environment research.
+
+Key faculty:
+- **Benjamin Jorns** — Hall thruster physics, plasma diagnostics, plume characterization
+- **Alec Thomas** — Laser-plasma physics, high-power lasers (more physics-adjacent)
+- **Mark Kushner** — Plasma engineering and modeling
+
+Notes: Ann Arbor is a genuinely livable college town — affordable, good food scene, strong university culture. Michigan's AE department is one of the largest in the country, which means resources and variety. Stipends are moderate; Ann Arbor cost of living is low enough that they go far.
+
+---
+
+### University of Colorado Boulder — Ann and H.J. Smead Dept of Aerospace Engineering Sciences
+
+**Best for:** Astrodynamics (exceptional), space weather, space systems, cislunar dynamics
+
+CU Boulder has an unusually concentrated strength in space — the Laboratory for Atmospheric and Space Physics (LASP) is one of the world's leading space science institutions, and the astrodynamics group is consistently top-ranked nationally. If astrodynamics pulls, Boulder deserves serious consideration.
+
+Key faculty:
+- **Hanspeter Schaub** — Spacecraft attitude control, formation flying, electrostatic charging
+- **Daniel Scheeres** — Astrodynamics, small body dynamics, spacecraft-asteroid interactions
+- **Zach Putnam** — Entry, descent, and landing; trajectory optimization
+
+Notes: Boulder is one of the best places to live in the US — mountains, outdoor culture, strong scientific community (NCAR, NIST, NOAA all based here), genuinely beautiful. Stipends are moderate; cost of living is rising but still better than coastal cities. The department has a distinct space-first culture.
+
+---
+
+### California Institute of Technology — GALCIT (Graduate Aerospace Laboratories)
+
+**Best for:** Propulsion (chemical and advanced), high-speed flows, computational fluid dynamics, fundamental research
+
+GALCIT is small, research-intensive, and extremely selective. It has a long tradition in propulsion — JPL was literally founded by Caltech researchers. The research is more fundamental than applied; GALCIT is not primarily a systems engineering department.
+
+Key faculty:
+- **Guillaume Blanquart** — Combustion, turbulence, soot formation
+- **Beverley McKeon** — Turbulence, wall-bounded flows
+- **Morteza Gharib** — Fluid mechanics, biological flows, sensing
+
+Notes: Caltech is in Pasadena, adjacent to JPL. Very small graduate program — this is either a feature or a bug depending on your temperament. Extremely competitive. The physics-AE boundary is thin here.
+
+---
+
+### Purdue University — School of Aeronautics and Astronautics
+
+**Best for:** Propulsion (chemical and electric), astrodynamics, structures, broad AE
+
+Purdue has one of the oldest and most comprehensive AE programs in the country. Strong propulsion tradition — many Apollo-era engineers trained here. The Zucrow Labs for high-pressure combustion are world-class. Also strong in astrodynamics and GNC.
+
+Key faculty:
+- **Stephen Heister** — Chemical propulsion, liquid rocket engines, combustion instability
+- **Kathleen Howell** — Astrodynamics, three-body problem, libration point orbits (directly relevant to cislunar missions)
+- **Alina Alexeenko** — Rarefied gas dynamics, microthrusters
+
+Notes: West Lafayette, Indiana is a college town — affordable but limited beyond the university. Large program with significant resources. Purdue graduates are highly recruited by NASA, SpaceX, Blue Origin.
+
+---
+
+### Georgia Institute of Technology — Daniel Guggenheim School of Aerospace Engineering
+
+**Best for:** Hypersonics, propulsion, structures, broad AE, industry connections
+
+Georgia Tech's AE program is one of the largest and best-resourced in the country. Particularly strong in hypersonics and high-speed aerodynamics. The Ben T. Zinn Combustion Lab is a leading propulsion facility.
+
+Key faculty:
+- **Vigor Yang** — Combustion, liquid rocket engines, energetic materials
+- **Graeme Kennedy** — Structural optimization, composite structures
+- **Lakshmi Sankar** — Rotorcraft aerodynamics, wind energy
+
+Notes: Atlanta is a major city — real urban infrastructure, affordable cost of living, good food scene. Georgia Tech has very strong industry relationships (Lockheed Martin, Boeing, Delta, Raytheon). More industry-oriented than MIT or Caltech but not at the expense of research depth.
+
+---
+
+### University of Texas at Austin — Dept of Aerospace Engineering and Engineering Mechanics
+
+**Best for:** Astrodynamics, GNC, computational methods, hypersonics
+
+UT Austin has a strong astrodynamics group and growing computational AE. The Texas Advanced Computing Center (TACC) provides significant computational resources. Austin is the home of SpaceX's Starship development site nearby.
+
+Key faculty:
+- **Maruthi Akella** — Astrodynamics, orbital mechanics, spacecraft GNC
+- **Todd Humphreys** — Navigation, GPS, autonomous systems
+- **Philip Varghese** — Rarefied gas dynamics, hypersonics
+
+Notes: Austin has become expensive but remains more affordable than coastal cities. Strong tech industry ecosystem. UT Austin AE is large and well-funded.
+
+---
+
+## International programs
+
+### TU Delft — Faculty of Aerospace Engineering (Netherlands)
+
+**Best for:** Propulsion, space systems, structures, wind energy, broad AE
+
+TU Delft's aerospace faculty is one of the best in Europe — genuinely world-class in several areas, not merely a European consolation prize. Strong in electric propulsion, spacecraft systems, and structures. As an EU citizen, Olivia would pay EU tuition rates — dramatically lower than US programs — and is eligible for Dutch and EU scholarships.
+
+Key faculty / groups:
+- **Space Propulsion group** — Electric propulsion, green propellants
+- **Astrodynamics and Space Missions group** — Orbital mechanics, mission design
+- **Structures and Composites** — Lightweight aerospace structures
+
+Notes: Delft is a small, beautiful Dutch city near The Hague and Rotterdam. The faculty is international and English-language research is standard. Very high quality of life; Dutch salaries and living costs are moderate by Western European standards. Strong industry connections to Airbus, ESA, NLR.
+
+---
+
+### ISAE-SUPAERO — Institut Supérieur de l'Aéronautique et de l'Espace (France)
+
+**Best for:** Broad AE, space systems, propulsion, French/European space industry pipeline
+
+One of the most prestigious aerospace engineering schools in the world, period. Strong ties to CNES (French space agency), Airbus, Thales. Located in Toulouse — France's aerospace capital.
+
+Notes: Programs increasingly available in English. Tuition is very low for EU students. Toulouse is a genuinely pleasant city. The SUPAERO degree carries significant weight in European and international aerospace. Worth considering if European career trajectory is acceptable.
+
+---
+
+### KTH Royal Institute of Technology — Stockholm (Sweden)
+
+**Best for:** Space systems, propulsion, computational methods, Scandinavian career access
+
+KTH is Sweden's leading technical university, strong in space systems and related engineering. As a Danish EU citizen, essentially free tuition. Stockholm is one of the world's most livable cities. The Scandinavian aerospace industry (Saab, RUAG, OHB) is accessible from here.
+
+Notes: Research intensity is somewhat lower than top US programs but the environment is excellent and the cost of entry near zero. A KTH master's followed by a US PhD is a credible path.
+
+---
+
+### Imperial College London — Department of Aeronautics
+
+**Best for:** Structures, computational aerodynamics, propulsion, broad AE
+
+Imperial is one of the UK's top engineering schools with a strong aeronautics department. Post-Brexit, Danish students are international (non-EU), which means higher fees than pre-2021 — less favorable than TU Delft or KTH.
+
+Notes: London is expensive. Imperial's research is strong; the location provides access to the UK aerospace industry (Rolls-Royce, BAE Systems, Airbus UK). Worth considering if the UK track appeals.
+
+---
+
+## Quick reference
+
+| Program | Location | Best for | Profile fit |
+|---|---|---|---|
+| MIT AeroAstro | Boston MA | Electric propulsion, space systems, astrodynamics | Very strong |
+| Princeton MAE | Princeton NJ | Electric propulsion (world-class), plasma | Very strong |
+| Michigan AE | Ann Arbor MI | Electric propulsion, space weather | Very strong |
+| CU Boulder | Boulder CO | Astrodynamics (exceptional), space environment | Very strong |
+| Caltech GALCIT | Pasadena CA | Fundamental propulsion, fluids | Strong, selective |
+| Purdue AAE | W. Lafayette IN | Broad propulsion, astrodynamics | Strong |
+| Georgia Tech AE | Atlanta GA | Hypersonics, broad AE, industry | Strong |
+| UT Austin | Austin TX | Astrodynamics, GNC, computation | Strong |
+| TU Delft | Delft NL | Broad AE, EU tuition, world-class | Strong, affordable |
+| ISAE-SUPAERO | Toulouse FR | Broad AE, European pipeline | Strong, European |
+| KTH | Stockholm SE | Space systems, Scandinavian access | Good, near-free |
+| Imperial | London UK | Structures, UK industry | Good, expensive |
+
+---
+
+*See also: landscape.md for sub-field descriptions, application-guide.md for how to apply*
