@@ -77,4 +77,45 @@ Hvis du vil styrke ingeniørsiden inden ansøgninger eller under et kandidatprog
 
 ---
 
+## Penge — hvad man kan forvente, og hvad man må antage
+
+**Den første sondring: stipendium vs. legat**
+
+Et stipendium følger med en finansieret ph.d.-stilling — det er den løbende betaling, der følger med forskningsansættelsen. Et legat er en separat konkurrencepræget pris, du ansøger om uafhængigt. Disse er ikke det samme, og du bør ikke antage, at det ene er det andet.
+
+**Amerikanske ph.d.-programmer**
+
+De fleste finansierede ph.d.-programmer i AE dækker studieafgift og betaler et stipendium. Dette er *research assistant* (RA) eller *teaching assistant* (TA) ansættelser — beskæftigelse, ikke velgørenhed. Hvis du optages til en finansieret ph.d.-stilling, følger stipendiet med automatisk.
+
+**Det afgørende punkt:** selvstændige kandidatprogrammer i US AE er ofte *ufinansierede*. Du betaler studieafgift. Nogle studerende starter som MS-studerende og håber at overgå til en finansieret ph.d. — dette er en reel vej, men bærer finansiel risiko. Søg ph.d.-programmer, hvis du ønsker finansiering.
+
+Omtrentlige stipendieintervaller for finansierede ph.d.-stillinger (ikke garanteret, før du har et tilbud):
+
+| Program | Stipendium/år | Byniveau |
+|---|---|---|
+| MIT AeroAstro | ~$40–44k | Højt (Boston) |
+| Princeton MAE | ~$40–44k | Moderat (NJ) |
+| Caltech GALCIT | ~$38–42k | Højt (LA) |
+| CU Boulder | ~$28–33k | Moderat |
+| Georgia Tech | ~$28–32k | Moderat (Atlanta) |
+| UT Austin | ~$26–30k | Moderat-højt |
+| Michigan AE | ~$25–30k | Lavt (Ann Arbor) |
+| Purdue AAE | ~$22–26k | Meget lavt (W. Lafayette) |
+
+**Europæiske programmer**
+
+Ved TU Delft og KTH er ph.d.-studerende juridisk ansatte — lønnen er knyttet til en specifik finansieret stilling annonceret af en vejleder, ikke til institutionen generelt. Du kan ikke blot ansøge til universitetet og forvente at blive betalt. Du skal udvælges til en specifik finansieret stilling eller have en vejleder med bevillingsmidler, der er enig i at tage dig.
+
+Hvis du finder en finansieret stilling: TU Delft betaler ~€2.500–2.800/måned; KTH betaler ~30.000–35.000 SEK/måned. Begge dækker dig som ansat med fordele. Men at finde stillingen er arbejdet.
+
+ISAE-SUPAERO forskningsmasterfinansiering varierer efter program og år — antag ikke finansiering; tjek hvert program eksplicit.
+
+Imperial London: finansierede stillinger findes, men er konkurrenceprægede. Ufinansieret er London meget dyrt på et studenterbudget.
+
+**Den danske sammenligning**
+
+Danske ph.d.-studerende er ansatte og tjener ~390.000–420.000 kr./år (~$56–61k) med fulde fordele. Enhver mulighed ovenfor er et nominelt lønnedskæring fra det. Afvejningen er institutionen, vejlederen og, hvor graden tager hende.
+
+---
+
 *Se også: landscape.md for underfelter, programs.md for programdetaljer*

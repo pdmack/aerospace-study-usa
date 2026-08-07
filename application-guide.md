@@ -77,4 +77,45 @@ If you want to strengthen the engineering side before applications or during a m
 
 ---
 
+## Money — what to expect and what to assume
+
+**The first distinction: stipend vs. scholarship**
+
+A stipend comes with a funded PhD position — it is the regular payment that accompanies the research appointment. A scholarship is a separate competitive award you apply for independently. These are not the same thing, and you should not assume one is the other.
+
+**US PhD programs**
+
+Most funded PhD programs in AE cover tuition and pay a stipend. These are *research assistant* (RA) or *teaching assistant* (TA) appointments — employment, not charity. If you are admitted to a funded PhD position, the stipend comes with it automatically.
+
+**The critical point:** standalone master's programs in US AE are often *unfunded*. You pay tuition. Some students enter as MS and hope to transition to a funded PhD — this is a real path but carries financial risk. Apply to PhD programs if you want funding.
+
+Approximate stipend ranges for funded PhD positions (not guaranteed until you have an offer):
+
+| Program | Stipend/yr | City cost |
+|---|---|---|
+| MIT AeroAstro | ~$40–44k | High (Boston) |
+| Princeton MAE | ~$40–44k | Moderate (NJ) |
+| Caltech GALCIT | ~$38–42k | High (LA) |
+| CU Boulder | ~$28–33k | Moderate |
+| Georgia Tech | ~$28–32k | Moderate (Atlanta) |
+| UT Austin | ~$26–30k | Moderate-high |
+| Michigan AE | ~$25–30k | Low (Ann Arbor) |
+| Purdue AAE | ~$22–26k | Very low (W. Lafayette) |
+
+**European programs**
+
+At TU Delft and KTH, PhD students are legally employees — the salary is attached to a specific funded position advertised by a supervisor, not to the institution generally. You cannot simply apply to the university and expect to be paid. You need to be selected for a specific funded position, or have a supervisor with grant money who agrees to take you.
+
+If you find a funded position: TU Delft pays ~€2,500–2,800/month; KTH pays ~30,000–35,000 SEK/month. Both cover you as an employee with benefits. But finding the position is the work.
+
+ISAE-SUPAERO research master's funding varies by program and year — do not assume funding; check each program explicitly.
+
+Imperial London: funded positions exist but are competitive. Unfunded, London is very expensive on a student budget.
+
+**The Danish comparison**
+
+Danish PhD students are employees and earn ~390,000–420,000 DKK/year (~$56–61k) with full benefits. Every option above is a nominal pay cut from that. The trade-off is the institution, the supervisor, and where the degree takes her.
+
+---
+
 *See also: landscape.md for sub-field descriptions, programs.md for program details*
