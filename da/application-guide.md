@@ -112,6 +112,31 @@ ISAE-SUPAERO forskningsmasterfinansiering varierer efter program og år — anta
 
 Imperial London: finansierede stillinger findes, men er konkurrenceprægede. Ufinansieret er London meget dyrt på et studenterbudget.
 
+**Studieafgift**
+
+For finansierede ph.d.-stillinger er studieafgift ikke din udgift — den er enten eksplicit frafaldet som del af finansieringspakken (USA) eller dækket af institutionen som del af din ansættelseskontrakt (Holland, Sverige). Du betaler ingenting.
+
+Studieafgift bliver rigtige penge i to situationer:
+
+*Ufinansieret amerikansk kandidatprogram:*
+
+| Program | Ufinansieret kandidatstudieafgift/år |
+|---|---|
+| MIT | ~$60.000 |
+| Caltech | ~$60.000 |
+| Princeton | ~$58.000 |
+| Michigan | ~$23–48k (in/out of state) |
+| CU Boulder | ~$15–30k |
+| Georgia Tech | ~$14–32k |
+| UT Austin | ~$12–25k |
+| Purdue | ~$10–29k |
+
+Derfor er det vigtigt at søge finansierede ph.d.-programmer. Et ufinansieret kandidatstudium ved MIT koster nogenlunde det samme som et hus i West Lafayette.
+
+*Imperial College London:* ~£32–35k/år i studieafgift som international studerende (efter Brexit), uanset om et stipendium er tilknyttet. En finansieret stilling dækker det; uden en er det uoverkommeligt.
+
+*EU-institutioner:* TU Delft opkræver ~€2.200/år for EU-studerende; KTH er gratis for EU-borgere. For finansierede ph.d.-stillinger begge steder dækker institutionen studieafgiften. I praksis nul på begge måder.
+
 **Den danske sammenligning**
 
 Danske ph.d.-studerende er ansatte og tjener ~390.000–420.000 kr./år (~$56–61k) med fulde fordele. Enhver mulighed ovenfor er et nominelt lønnedskæring fra det. Afvejningen er institutionen, vejlederen og, hvor graden tager hende.

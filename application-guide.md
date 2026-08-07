@@ -112,6 +112,31 @@ ISAE-SUPAERO research master's funding varies by program and year — do not ass
 
 Imperial London: funded positions exist but are competitive. Unfunded, London is very expensive on a student budget.
 
+**Tuition**
+
+For funded PhD positions, tuition is not your cost — it is either explicitly waived as part of the funding package (US) or covered by the institution as part of your employment contract (Netherlands, Sweden). You pay nothing.
+
+Tuition becomes real money in two situations:
+
+*Unfunded US master's:*
+
+| Program | Unfunded MS tuition/yr |
+|---|---|
+| MIT | ~$60,000 |
+| Caltech | ~$60,000 |
+| Princeton | ~$58,000 |
+| Michigan | ~$23–48k (in/out of state) |
+| CU Boulder | ~$15–30k |
+| Georgia Tech | ~$14–32k |
+| UT Austin | ~$12–25k |
+| Purdue | ~$10–29k |
+
+This is why applying to funded PhD programs matters. An unfunded MS at MIT costs roughly what a house costs in West Lafayette.
+
+*Imperial College London:* ~£32–35k/year in tuition as an international student (post-Brexit), regardless of whether a stipend is attached. A funded position covers it; without one, it is prohibitive.
+
+*EU institutions:* TU Delft charges ~€2,200/year for EU students; KTH is free for EU citizens. For funded PhD positions at either, tuition is covered by the institution. Effectively zero either way.
+
 **The Danish comparison**
 
 Danish PhD students are employees and earn ~390,000–420,000 DKK/year (~$56–61k) with full benefits. Every option above is a nominal pay cut from that. The trade-off is the institution, the supervisor, and where the degree takes her.
