@@ -113,6 +113,27 @@ Notes: Atlanta is a major city — real urban infrastructure, affordable cost of
 
 ---
 
+### NC State University — Department of Mechanical and Aerospace Engineering
+
+**Best for:** Hypersonics, computational aerodynamics, high-speed propulsion
+
+NC State's AE program is **aeronautics-focused, not astronautics**. Its genuine national strength is hypersonics — well-funded, growing, and anchored by real facility investment. The space systems side is thin. If hypersonics or high-speed computational aerodynamics is the direction, NC State deserves serious consideration. If electric propulsion or astrodynamics is the priority, look elsewhere.
+
+Key faculty:
+- **Venkat Narayanaswamy** — Hypersonic aerothermodynamics, scramjet inlet design, plasma diagnostics in hypersonic shock layers. Built the first Mach 6 long-duration hypersonic wind tunnel in the Southeast ($2.4M in DoD facility grants). One of eight national teams selected by the Joint Hypersonics Transition Office. The most externally funded aerospace researcher in the department.
+- **Jack Edwards** — Computational hypersonics, CFD for scramjet and ramjet propulsion, reacting flows at hypersonic speeds. NASA and DoD funded. Endowed professorship (Angel Family Distinguished Professor).
+- **Laura Paquin** — High-enthalpy boundary layer transition, femtosecond laser diagnostics, hypersonic aerothermodynamics. Former Karles Fellow at the Naval Research Laboratory. Building her HEAT Lab at NC State — still early stage but well-credentialed.
+- **Hong Luo** — Computational fluid dynamics, computational magnetohydrodynamics (MHD), high-performance computing. His MHD work is plasma-adjacent.
+- **André Mazzoleni** — Space systems, orbital mechanics (coursework), conceptual planetary exploration systems including a solar wind electric sail concept. Limited active funded research in traditional astrodynamics — better as a course instructor than a research supervisor for GNC or trajectory work.
+
+What's not here: **No electric propulsion faculty, no Hall thruster lab, no plasma propulsion experimental work.** No active funded astrodynamics research program. Students targeting EP should go to Michigan, Princeton, or Georgia Tech. Students targeting astrodynamics should go to CU Boulder, Purdue, or UT Austin.
+
+PhD funding: generally offered to admitted students via RA/TA appointments. Priority deadline December 15. MS students are typically unfunded.
+
+Notes: NC State is in the Research Triangle (Raleigh) — a genuine tech hub with RTP nearby. Affordable, good climate, strong university culture. The hypersonics program is DoD-connected and growing. For a student with a plasma physics background willing to redirect toward hypersonic aerothermodynamics rather than EP, the plasma diagnostic work in Narayanaswamy's lab is a legitimate bridge.
+
+---
+
 ### University of Texas at Austin — Dept of Aerospace Engineering and Engineering Mechanics
 
 **Best for:** Astrodynamics, GNC, computational methods, hypersonics
@@ -186,6 +207,7 @@ Notes: London is expensive. Imperial's research is strong; the location provides
 | Caltech GALCIT | Pasadena CA | Fundamental propulsion, fluids | Strong, selective |
 | Purdue AAE | W. Lafayette IN | Broad propulsion, astrodynamics | Strong |
 | Georgia Tech AE | Atlanta GA | Hypersonics, broad AE, industry | Strong |
+| NC State MAE | Raleigh NC | Hypersonics, computational aero | Strong for hypersonics; no EP |
 | UT Austin | Austin TX | Astrodynamics, GNC, computation | Strong |
 | TU Delft | Delft NL | Broad AE, EU tuition, world-class | Strong, affordable |
 | ISAE-SUPAERO | Toulouse FR | Broad AE, European pipeline | Strong, European |

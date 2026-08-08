@@ -107,6 +107,27 @@ Noter: Atlanta er en storby — reel byinfrastruktur, overkommelige leveomkostni
 
 ---
 
+### NC State University — Department of Mechanical and Aerospace Engineering
+
+**Bedst til:** Hypersonik, beregningsbaseret aerodynamik, højhastighedsfremdrift
+
+NC States AE-program er **luftfartsorienteret, ikke rumfartsorienteret**. Programmets ægte nationale styrke er hypersonik — velfunderet, voksende og forankret i reel facilitetsinvestering. Rumsystemsiden er tynd. Hvis hypersonik eller højhastigheds beregningsaerodynamik er retningen, fortjener NC State seriøs overvejelse. Hvis elektrisk fremdrift eller astro-dynamik er prioriteten, er der bedre muligheder andre steder.
+
+Centrale fakultetsmedlemmer:
+- **Venkat Narayanaswamy** — Hypersonisk aerotermodynamik, scramjet-indsugningsdesign, plasmadiagnostik i hypersoniske stødlag. Byggede den første Mach 6 langvarige hypersoniske vindtunnel i det sydøstlige USA ($2,4M i DoD-facilitetstilskud). Et af otte nationale teams udvalgt af Joint Hypersonics Transition Office. Den mest eksternt finansierede luftfartsforsker i afdelingen.
+- **Jack Edwards** — Beregningsbaseret hypersonik, CFD for scramjet- og ramjet-fremdrift, reagerende strømninger ved hypersoniske hastigheder. NASA- og DoD-finansieret. Endowet professorat.
+- **Laura Paquin** — Højentalpi-grænselagstransition, femtosekund-laserdiagnostik, hypersonisk aerotermodynamik. Tidligere Karles Fellow ved Naval Research Laboratory. Opbygger sit HEAT Lab ved NC State — tidlig fase, men velkvali ficeret.
+- **Hong Luo** — Beregningsbaseret fluiddynamik, beregningsbaseret magnetohydrodynamik (MHD), højydelse computing. Hans MHD-arbejde er plasma-tilgrænsende.
+- **André Mazzoleni** — Rumsystemer, kredsløbsmekanik (undervisning), konceptuelle planetariske udforsknignssystemer inkl. et solvinds elektrisk sejlkoncept. Begrænset aktiv finansieret forskning i traditionel astro-dynamik — bedre som undervisningsinstruktør end som forskningsvejleder for GNC eller banearbejde.
+
+Hvad der ikke er her: **Ingen elektrisk fremdrift-fakultet, intet Hall-thruster-laboratorium, intet plasmafremdriftseksperimentelt arbejde.** Intet aktivt finansieret astro-dynamikforskningsprogram. Studerende, der sigter mod EP, bør søge til Michigan, Princeton eller Georgia Tech. Studerende, der sigter mod astro-dynamik, bør søge til CU Boulder, Purdue eller UT Austin.
+
+Ph.d.-finansiering: generelt tilbudt til optagne studerende via RA/TA-ansættelser. Prioritetsfrist 15. december. Kandidatstuderende er typisk ufinansierede.
+
+Noter: NC State ligger i Research Triangle (Raleigh) — et genuint teknologiknudepunkt med RTP i nærheden. Overkommeligt, godt klima, stærk universitetskultur. Hypersonikprogrammet er DoD-forbundet og voksende. For en studerende med plasmafysikbaggrund, der er villig til at omdirigere mod hypersonisk aerotermodynamik snarere end EP, er plasmadiagnostikarbejdet i Narayanaswamys laboratorium en legitim bro.
+
+---
+
 ### University of Texas at Austin
 
 **Bedst til:** Astro-dynamik, GNC, beregningsmetoder, hypersonik
@@ -174,6 +195,7 @@ Noter: London er dyrt. Stærk industriforbindelser til Rolls-Royce, BAE Systems,
 | Caltech GALCIT | Pasadena CA | Grundlæggende fremdrift, fluider | Stærkt, selektivt |
 | Purdue AAE | W. Lafayette IN | Bred fremdrift, astro-dynamik | Stærkt |
 | Georgia Tech AE | Atlanta GA | Hypersonik, bred AE, industri | Stærkt |
+| NC State MAE | Raleigh NC | Hypersonik, beregningsaerodynamik | Stærkt for hypersonik; ingen EP |
 | UT Austin | Austin TX | Astro-dynamik, GNC, beregning | Stærkt |
 | TU Delft | Delft NL | Bred AE, EU-studieafgift, verdensklasse | Stærkt, overkommeligt |
 | ISAE-SUPAERO | Toulouse FR | Bred AE, europæisk pipeline | Stærkt, europæisk |
