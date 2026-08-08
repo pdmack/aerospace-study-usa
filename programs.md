@@ -196,7 +196,66 @@ Notes: London is expensive. Imperial's research is strong; the location provides
 
 ---
 
-## Quick reference
+## Propulsion focus — if rockets are the draw
+
+Propulsion splits into two distinct worlds with different research cultures, different physics, and different relevance to a physics background. Knowing which one pulls matters before building a list.
+
+---
+
+### Chemical propulsion — combustion, thrust, launch vehicles
+
+The traditional rocket engine. Fuel and oxidizer combust to produce thrust. This is what lifts things off the ground. The physics is thermodynamics, combustion chemistry, fluid dynamics at high temperatures and pressures. A physics background helps with the fundamentals but the domain knowledge — combustion instability, injector design, nozzle flow — is engineering-specific.
+
+**Purdue — Zucrow Laboratories**
+The definitive address for chemical rocket propulsion in US academia. Named after Maurice Zucrow — the "father of American rocketry" — these labs have a direct lineage from the early US space program. High-pressure combustion cells, liquid rocket test stands, solid rocket facilities. More rocket test infrastructure than almost anywhere outside NASA and the major primes. Faculty: **Stephen Heister** (liquid propulsion, combustion instability), **Alina Alexeenko** (rarefied gas dynamics, microthrusters). If Raptor-level combustion engineering is the interest, Purdue is the address.
+
+**Georgia Tech — Ben T. Zinn Combustion Lab**
+Vigor Yang is one of the most prominent researchers in liquid rocket combustion in the country. Also has rotating detonation engines (James Braun, BEFAST Lab) — a potential replacement for conventional combustion cycles, active DoD interest. Strong industry connections to launch vehicle companies.
+
+**Penn State — Propulsion Engineering Research Center**
+Solid and liquid propulsion. Less prominent nationally than Purdue or Georgia Tech but a real, funded program.
+
+**University of Alabama Huntsville (UAH)**
+Sits next to NASA Marshall Space Flight Center — where Saturn V engines were developed and where SLS propulsion now lives. UAH has research ties to Marshall that no other US university can match by proximity. A smaller institution but a unique gateway into NASA's propulsion ecosystem. Worth knowing if NASA career trajectory is the goal.
+
+---
+
+### Electric propulsion — plasma, ions, Hall thrusters
+
+Spacecraft thrusters that use electric fields to accelerate ions. No combustion. Far more efficient than chemical propulsion in deep space. The physics is plasma physics, electromagnetism, and gas dynamics at low pressure — directly continuous with a theoretical physics background. This is the area where coming from plasma physics is an asset rather than a gap.
+
+**Michigan — Plasmadynamics and Electric Propulsion Lab (PEPL)**
+One of the two or three best EP labs in the country. Hall thrusters, ion engines, Faraday probes, plasma plume diagnostics. **Benjamin Jorns** leads the lab now — his work on oscillation dynamics in Hall thrusters is among the most cited in the field. Ann Arbor is affordable; the lab is well-funded; the program is strong.
+
+**Princeton — Electric Propulsion and Plasma Dynamics Lab (EPPDyL)**
+Founded by Edgar Choueiri, one of the field's defining figures. Choueiri recently retired but the lab continues. World-class reputation. The physics culture at Princeton bleeds across from the physics department — a genuinely good environment for someone coming from that background.
+
+**Georgia Tech — High Power Electric Propulsion Lab (HPEPL)**
+**Mitchell Walker** runs the largest EP test facility in US academia. Focus on high-power Hall thrusters for deep space and nuclear-electric propulsion — the next generation of propulsion for missions to Mars and beyond. Georgia Tech appears on both the chemical and electric propulsion lists; its propulsion program is the broadest in the country.
+
+**Colorado State — Center for Electric Propulsion and Power Engineering (CEPPE)**
+Solid EP research group, less prominent than Michigan or Princeton but genuine. Fort Collins is affordable and livable.
+
+**MIT — Space Propulsion Lab**
+**Paulo Lozano** works on miniaturized electric propulsion — electrospray thrusters for CubeSats, ion engines at small scale. Cutting edge but small-scale; if large-system EP is the interest, Michigan or Georgia Tech are better fits.
+
+---
+
+### Which propulsion world fits this profile
+
+| | Chemical | Electric |
+|---|---|---|
+| Core physics | Thermodynamics, combustion | Plasma physics, electromagnetism |
+| Olivia's background overlap | Indirect | Direct |
+| Engineering gap to bridge | Thermodynamics, chemistry | Smaller — plasma physics transfers |
+| Industry connections | SpaceX, Blue Origin, Aerojet | Satellite industry, deep space programs |
+| Best programs | Purdue, Georgia Tech, UAH | Michigan, Princeton, Georgia Tech |
+
+**Georgia Tech** is the only program that appears prominently on both lists. If the choice between chemical and electric isn't made yet, Georgia Tech gives the most room to explore and decide. The Ben T. Zinn Combustion Lab and the HPEPL are both there.
+
+---
+
+
 
 | Program | Location | Best for | Profile fit |
 |---|---|---|---|

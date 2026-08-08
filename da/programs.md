@@ -184,7 +184,66 @@ Noter: London er dyrt. Stærk industriforbindelser til Rolls-Royce, BAE Systems,
 
 ---
 
-## Hurtig reference
+## Fremdriftsfokus — hvis raketter er tiltrækningskraften
+
+Fremdrift opdeles i to distinkte verdener med forskellig forskningskultur, forskellig fysik og forskellig relevans for en fysikbaggrund. At vide, hvilken der trækker, betyder noget, inden du bygger en liste.
+
+---
+
+### Kemisk fremdrift — forbrænding, fremdrift, opsendelseskøretøjer
+
+Den traditionelle raketmotor. Brændstof og oxidationsmiddel forbrændes for at producere fremdrift. Dette er det, der løfter ting fra jorden. Fysikken er termodynamik, forbrændingskemi, fluiddynamik ved høje temperaturer og tryk. En fysikbaggrund hjælper med fundamentalerne, men domæneviden — forbrændingsinstabilitet, injektordesign, dysestrømning — er ingeniørspecifik.
+
+**Purdue — Zucrow Laboratories**
+Den definitive adresse for kemisk raketfremdrift i amerikansk akademia. Opkaldt efter Maurice Zucrow — "faderen til amerikansk raketeri" — har disse laboratorier en direkte afstamning fra det tidlige amerikanske rumprogram. Højtryksforbrændingsceller, flydende raketteststande, fastbrændstofraketter. Mere rakettest-infrastruktur end næsten noget andet sted uden for NASA og de store producenter. Fakultet: **Stephen Heister** (flydende fremdrift, forbrændingsinstabilitet). Hvis Raptor-niveau forbrændingsingeniørvidenskab er interessen, er Purdue adressen.
+
+**Georgia Tech — Ben T. Zinn Combustion Lab**
+Vigor Yang er en af de mest fremtrædende forskere inden for flydende raketforbrænding i landet. Har også roterende detonationsmotorer (James Braun, BEFAST Lab) — en potentiel erstatning for konventionelle forbrændingscyklusser, aktiv DoD-interesse. Stærke industriforbindelser til opsendelseskøretøjsvirksomheder.
+
+**Penn State — Propulsion Engineering Research Center**
+Fast og flydende fremdrift. Mindre fremtrædende nationalt end Purdue eller Georgia Tech, men et reelt, finansieret program.
+
+**University of Alabama Huntsville (UAH)**
+Ligger ved siden af NASA Marshall Space Flight Center — hvor Saturn V-motorerne blev udviklet, og hvor SLS-fremdrift nu bor. UAH har forskningstilknytninger til Marshall, som intet andet amerikansk universitet kan matche geografisk. En mindre institution men en unik indgang til NASAs fremdriftsøkosystem. Værd at kende, hvis en NASA-karrierebane er målet.
+
+---
+
+### Elektrisk fremdrift — plasma, ioner, Hall-thrustere
+
+Rumfartøjsfremdrivere, der bruger elektriske felter til at accelerere ioner. Ingen forbrænding. Langt mere effektiv end kemisk fremdrift i det dybe rum. Fysikken er plasmafysik, elektromagnetisme og gasdynamik ved lavt tryk — direkte kontinuerlig med en teoretisk fysikbaggrund. Dette er det område, hvor det at komme fra plasmafysik er et aktiv snarere end et gab.
+
+**Michigan — Plasmadynamics and Electric Propulsion Lab (PEPL)**
+Et af de to eller tre bedste EP-laboratorier i landet. Hall-thrustere, ionmotorer, Faraday-sonder, plasmafjerndiagnostik. **Benjamin Jorns** leder laboratoriet nu — hans arbejde om oscillationsdynamik i Hall-thrustere er blandt de mest citerede i feltet. Ann Arbor er overkommelig; laboratoriet er velfunderet; programmet er stærkt.
+
+**Princeton — Electric Propulsion and Plasma Dynamics Lab (EPPDyL)**
+Grundlagt af Edgar Choueiri, en af feltets definerende figurer. Choueiri er for nylig gået på pension, men laboratoriet fortsætter. Verdensklasse-omdømme. Fysikkulturen ved Princeton breder sig fra fysikafdelingen — et genuint godt miljø for nogen med den baggrund.
+
+**Georgia Tech — High Power Electric Propulsion Lab (HPEPL)**
+**Mitchell Walker** driver den største EP-testfacilitet i amerikansk akademia. Fokus på kraftige Hall-thrustere til det dybe rum og nuklear-elektrisk fremdrift — næste generation af fremdrift til missioner til Mars og videre. Georgia Tech optræder på både den kemiske og elektriske fremdriftsliste; dens fremdriftsprogram er det bredeste i landet.
+
+**Colorado State — Center for Electric Propulsion and Power Engineering (CEPPE)**
+Solid EP-forskergruppe, mindre fremtrædende end Michigan eller Princeton, men reel. Fort Collins er overkommelig og beboelig.
+
+**MIT — Space Propulsion Lab**
+**Paulo Lozano** arbejder med miniaturiseret elektrisk fremdrift — elektrospray-thrustere til CubeSats, ionmotorer i lille skala. Banebrydende men lille skala; hvis stort-system EP er interessen, er Michigan eller Georgia Tech bedre match.
+
+---
+
+### Hvilken fremdriftsverden passer til denne profil
+
+| | Kemisk | Elektrisk |
+|---|---|---|
+| Kernefysik | Termodynamik, forbrænding | Plasmafysik, elektromagnetisme |
+| Olivias baggrunds-overlap | Indirekte | Direkte |
+| Ingeniørgab at bygge bro over | Termodynamik, kemi | Mindre — plasmafysik overføres |
+| Industriforbindelser | SpaceX, Blue Origin, Aerojet | Satellitindustri, dybromsprogrammer |
+| Bedste programmer | Purdue, Georgia Tech, UAH | Michigan, Princeton, Georgia Tech |
+
+**Georgia Tech** er det eneste program, der optræder fremtrædende på begge lister. Hvis valget mellem kemisk og elektrisk ikke er truffet endnu, giver Georgia Tech mest rum til at udforske og beslutte. Ben T. Zinn Combustion Lab og HPEPL er begge der.
+
+---
+
+
 
 | Program | Beliggenhed | Bedst til | Profilmatch |
 |---|---|---|---|
