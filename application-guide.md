@@ -31,6 +31,75 @@ You are not a typical AE applicant. That is an asset if framed correctly.
 
 ---
 
+## The master's as a bridge — why this path makes sense
+
+Coming from a theoretical physics background, a master's in aerospace engineering is not a detour. It is the correct path. It fills the engineering fundamentals gap (aerodynamics, thermodynamics, structures, dynamics), produces a credential that opens PhD doors, and gives you time to find out which sub-field actually pulls before committing to a five-year dissertation.
+
+The academic challenges are real but manageable. The math won't be the problem — a string theory master's leaves you ahead of most AE students in mathematical maturity. The harder adjustment is physical intuition in fluid mechanics and aerodynamics, engineering thermodynamics, and lab culture (the shift from deriving equations to making experiments produce useful data). The first semester of an AE master's is the crunch point. By the second semester you find your footing.
+
+---
+
+## Funding reality for AE master's programs
+
+This is the most important thing to understand before building a list:
+
+**Most US AE master's programs are not funded.** This is a critical difference from physics PhD programs, where essentially everyone admitted gets a stipend. An unfunded AE master's at MIT or Stanford costs $60,000/year in tuition alone.
+
+Options that solve this:
+
+**1. Enroll in a PhD program and earn the MS along the way.** Many AE PhD programs award a master's after the first two years. The PhD is funded; the MS comes with it. This requires committing to a PhD before you're certain — but financially it's the cleanest US option.
+
+**2. Find a faculty member who funds you as a research assistant.** Some professors take funded master's students on grants. Not guaranteed, but worth asking explicitly in faculty outreach emails. The language: *"I'm interested in a research master's — do you have grant funding that could support a student working in this area?"*
+
+**3. European master's programs (strongly recommended).** TU Delft and KTH treat you as an employee or charge near-zero EU tuition. The degree is excellent. The cost is a fraction of US programs. This is not a consolation — it is often the smarter choice.
+
+---
+
+## Master's programs by fit for a physics background
+
+### TU Delft — MSc Aerospace Engineering (Netherlands) ★
+
+The standout option for someone in Olivia's position. Two-year research master's, EU tuition (~€2,200/year), genuinely world-class faculty, strong pipeline into US PhD programs. Olivia would spend two years in the Netherlands building the engineering foundation properly — aerodynamics, propulsion, structures, GNC — with research embedded from the start. She'd graduate at 27 with a complete AE profile, then apply to US PhD programs with full clarity about sub-area and direction.
+
+A Delft MSc followed by a US AE PhD application is a well-worn, credible path. Many top US PhD programs know Delft graduates well.
+
+Sub-specialisations available: Aerospace Structures and Materials, Aerodynamics, Space Exploration, Flight Performance and Propulsion, Control and Simulation. The Space Exploration track maps directly to her interests.
+
+### KTH — MSc Aerospace Engineering (Sweden)
+
+Free for EU citizens. Two-year program in Stockholm. Somewhat less strong than Delft in AE specifically but excellent by any normal standard, and the cost advantage is significant. A good option if proximity to Scandinavia matters or if the Stockholm environment appeals.
+
+### MIT AeroAstro SM (USA)
+
+Thesis-based, typically 1.5–2 years. Rarely funded unless a faculty member takes you on as an RA. The most prestigious AE master's in the US. Getting in from a physics background is possible but not straightforward — the application should emphasise mathematical depth and plasma physics relevance to propulsion or space research. If funded, exceptional. If unfunded, $60,000/year in tuition makes it very hard to justify over Delft.
+
+### Georgia Tech MSAE (USA)
+
+Large, structured, strong foundational coverage across all AE sub-fields. More accessible than MIT or Stanford. Good for someone who needs broad exposure before narrowing. Rarely funded as a standalone MS. Atlanta is affordable; the research culture is strong.
+
+### Michigan MS Aerospace Engineering (USA)
+
+Access to PEPL (electric propulsion lab) and space weather group — directly relevant for the sub-areas where a physics background lands well. Sometimes funded via RA if a faculty member in those groups has space. Ann Arbor is excellent and affordable.
+
+### CU Boulder MS Aerospace Engineering Sciences (USA)
+
+Space-focused culture, strong astrodynamics group, LASP next door. A natural environment for someone interested in space propulsion or space environment. Sometimes funded. Boulder is one of the best places to live in the US.
+
+---
+
+## The master's pathway timeline
+
+| Option | Timeline | Cost | Outcome |
+|---|---|---|---|
+| TU Delft MSc → US PhD | 2027–2029 MS; 2029–2034 PhD | Near-zero MS cost; funded PhD | Enters PhD at 27 with full engineering foundation |
+| KTH MSc → US PhD | Same | Free MS; funded PhD | Same |
+| US MS (unfunded) → PhD | 2027–2029 MS; 2029–2034 PhD | $100–120k MS cost | Same outcome, much higher cost |
+| US PhD direct (MS embedded) | 2027–2032+ | Funded throughout | Skips standalone MS; riskier without engineering base |
+
+The TU Delft path is the most financially rational and academically well-matched option for this specific profile. It is also the most honest: two years to build the foundation properly, then enter a PhD knowing exactly what you're doing and why.
+
+---
+
 ## Timeline for Fall 2027 admission
 
 | When | What |

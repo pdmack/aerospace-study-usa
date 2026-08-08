@@ -31,6 +31,75 @@ Du er ikke en typisk AE-ansøger. Det er et aktiv, hvis det rammes korrekt.
 
 ---
 
+## Kandidatgraden som bro — hvorfor denne vej giver mening
+
+Med en baggrund i teoretisk fysik er en kandidatgrad i aerospace engineering ikke en omvej. Det er den korrekte vej. Den udfylder ingeniørfundamentalgabet (aerodynamik, termodynamik, konstruktioner, dynamik), giver en legitimation, der åbner ph.d.-døre, og giver tid til at finde ud af, hvilket underfelt der faktisk trækker, inden du forpligter dig til en fem-årig afhandling.
+
+De akademiske udfordringer er reelle men håndterbare. Matematikken bliver ikke problemet — en strengteori-kandidatgrad giver dig et forspring frem for de fleste AE-studerende i matematisk modenhed. Den sværere tilpasning er fysisk intuition inden for fluiddynamik og aerodynamik, ingeniørtermodynamik og laboratoriekultur (skiftet fra at udlede ligninger til at få eksperimenter til at producere brugbare data). Første semester af et AE-kandidatprogram er det kritiske punkt. I andet semester finder du fodfæste.
+
+---
+
+## Finansieringsvirkelighed for AE-kandidatprogrammer
+
+Dette er det vigtigste at forstå, inden du bygger en liste:
+
+**De fleste amerikanske AE-kandidatprogrammer er ikke finansierede.** Dette er en kritisk forskel fra fysik-ph.d.-programmer, hvor næsten alle optagne får et stipendium. Et ufinansieret AE-kandidatprogram ved MIT eller Stanford koster $60.000/år i studieafgift alene.
+
+Muligheder der løser dette:
+
+**1. Start på et ph.d.-program og optjen kandidatgraden undervejs.** Mange AE ph.d.-programmer tildeler en kandidatgrad efter de første to år. Ph.d.'en er finansieret; kandidatgraden følger med. Dette kræver, at du forpligter dig til en ph.d., inden du er sikker — men finansielt er det den reneste amerikanske mulighed.
+
+**2. Find et fakultetsmedlem, der finansierer dig som forskningsassistent.** Nogle professorer optager finansierede kandidatstuderende på bevillinger. Ikke garanteret, men værd at spørge eksplicit om i henvendelses-mails til fakultetsmedlemmer. Sproget: *"Jeg er interesseret i en forskningsmastergrad — har du bevillingsfinansiering, der kunne støtte en studerende, der arbejder inden for dette område?"*
+
+**3. Europæiske kandidatprogrammer (stærkt anbefalet).** TU Delft og KTH behandler dig som ansat eller opkræver næsten nul EU-studieafgift. Graden er fremragende. Omkostningerne er en brøkdel af amerikanske programmer. Dette er ikke en trøstepræmie — det er ofte det klogere valg.
+
+---
+
+## Kandidatprogrammer efter egnethed for en fysikbaggrund
+
+### TU Delft — MSc Aerospace Engineering (Holland) ★
+
+Den fremragende mulighed for nogen i Olivias situation. To-årig forskningsmastergrad, EU-studieafgift (~€2.200/år), genuint verdensklasse-fakultet, stærk pipeline til amerikanske ph.d.-programmer. Olivia ville bruge to år i Holland med at opbygge ingeniørfundamentet ordentligt — aerodynamik, fremdrift, konstruktioner, GNC — med forskning integreret fra starten. Hun ville færdiggøre ved 27 med en komplet AE-profil, derefter søge til amerikanske ph.d.-programmer med fuld klarhed om underfelt og retning.
+
+En Delft MSc efterfulgt af en amerikansk AE ph.d.-ansøgning er en veletableret, troværdig vej. Mange top amerikanske ph.d.-programmer kender Delft-kandidater godt.
+
+Tilgængelige specialiseringer: Aerospace Structures and Materials, Aerodynamics, Space Exploration, Flight Performance and Propulsion, Control and Simulation. Space Exploration-sporet korresponderer direkte med hendes interesser.
+
+### KTH — MSc Aerospace Engineering (Sverige)
+
+Gratis for EU-borgere. To-årigt program i Stockholm. Noget svagere end Delft specifikt inden for AE, men fremragende efter enhver normal standard, og omkostningsfordelen er betydelig. En god mulighed, hvis nærhed til Skandinavien betyder noget, eller hvis Stockholm-miljøet appellerer.
+
+### MIT AeroAstro SM (USA)
+
+Afhandlingsbaseret, typisk 1,5–2 år. Sjældent finansieret, medmindre et fakultetsmedlem optager dig som RA. Den mest prestigefyldte AE-mastergrad i USA. At komme ind fra en fysikbaggrund er muligt men ikke ligetil — ansøgningen bør fremhæve matematisk dybde og plasmafysiks relevans for fremdrift eller rumforskning. Hvis finansieret: exceptionelt. Hvis ufinansieret: $60.000/år i studieafgift gør det meget svært at retfærdiggøre frem for Delft.
+
+### Georgia Tech MSAE (USA)
+
+Stort, struktureret, stærk grundlæggende dækning på tværs af alle AE-underfelter. Mere tilgængeligt end MIT eller Stanford. Godt for én, der har brug for bred eksponering inden indsnævring. Sjældent finansieret som selvstændig MS. Atlanta er overkommelig; forskningskulturen er stærk.
+
+### Michigan MS Aerospace Engineering (USA)
+
+Adgang til PEPL (elektrisk fremdriftslaboratorium) og rumvejrgruppe — direkte relevant for de underfelter, hvor en fysikbaggrund lander godt. Sommetider finansieret via RA, hvis et fakultetsmedlem i disse grupper har plads. Ann Arbor er fremragende og overkommelig.
+
+### CU Boulder MS Aerospace Engineering Sciences (USA)
+
+Rumfokuseret kultur, stærk astro-dynamikgruppe, LASP i nærheden. Et naturligt miljø for én, der er interesseret i rumfremdrift eller rummiljø. Sommetider finansieret. Boulder er et af de bedste steder at bo i USA.
+
+---
+
+## Kandidatvejens tidslinje
+
+| Mulighed | Tidslinje | Omkostning | Resultat |
+|---|---|---|---|
+| TU Delft MSc → US Ph.d. | 2027–2029 MS; 2029–2034 Ph.d. | Næsten nul MS-udgift; finansieret ph.d. | Starter ph.d. ved 27 med fuldt ingeniørfundament |
+| KTH MSc → US Ph.d. | Samme | Gratis MS; finansieret ph.d. | Samme |
+| US MS (ufinansieret) → Ph.d. | 2027–2029 MS; 2029–2034 Ph.d. | $100–120k MS-udgift | Samme resultat, meget højere pris |
+| US Ph.d. direkte (MS integreret) | 2027–2032+ | Finansieret hele vejen | Springer selvstændig MS over; mere risikabelt uden ingeniørbase |
+
+TU Delft-vejen er det mest finansielt rationelle og akademisk velegnede valg for denne specifikke profil. Det er også det mest ærlige: to år til at opbygge fundamentet ordentligt, derefter starte en ph.d. vel vidende præcis, hvad du laver og hvorfor.
+
+---
+
 ## Tidslinje for efterårsoptag 2027
 
 | Hvornår | Hvad |
